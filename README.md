@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is fraud detection system built with the Decision tree and Random Forest Algorithms. The Idea is was to build a system that detects anomalous behaviour(s) in a list of transactions.
+This is fraud detection system built with the Decision tree and Random Forest Algorithms. The Idea was to build a system that detects anomalous behaviour(s) in a list of transactions.
 
 In this project, i used the features below to train the algorithm.
 ```
